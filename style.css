@@ -1,0 +1,222 @@
+body {
+    background-color: darkgrey;
+    }
+.purpleheader {
+    background-color: purple;
+    height: 50px;
+   color: white;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 30px;
+}
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+header {
+    height: 150px;
+    display: flex;
+    background-color: whitesmoke;
+}
+b {
+    font-size: xx-large;
+}
+.rightheader {
+    padding-top: 30px;
+    margin-left: 700px;
+    display: flex;
+    justify-content: flex-end;
+}
+.righth3 {
+    font-size: x-large;
+    color: black;
+    margin-left: 20px;
+}
+a:hover { 
+    text-decoration: underline;
+}
+.imac {
+    background-image:url(img/да.png) ;
+ width: 488px;
+ height: 340px;
+justify-content: flex-start;
+}
+.imac img {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 448px;
+    height: 250px;
+}
+
+.imac2 {
+    font-size: x-large;
+    margin-left: 200px;
+}
+.div1 {
+    display: flex;
+}
+p {
+    opacity: 50%;
+    margin-top: 50px;
+}
+button {
+    border-radius: 50px;
+    background-color: blueviolet;
+    color: white;
+}
+.div2 {display: flex;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.none {
+ border: black solid 2px;
+    height: 32px;
+    background-color: white;
+    width: 900px;
+}
+.div11 {
+    width: min-content;
+    border: 2px black solid;
+    margin-left: 500px;
+}
+.href5 {
+    
+    text-decoration: none;
+    color: black;
+}
+.div12 {
+    width: min-content;
+    border: 2px black solid;
+}
+.miniblock1 img {
+    padding-left: 14px;
+    padding-top: 30px;
+}
+hr {
+    width: 100px;
+}
+.miniblock1 {
+
+    width: 240px;
+    height: 270px;
+}
+p {
+    text-shadow: -5px 5px 15px black;
+    text-align: center;
+}
+.block3 img {
+    display: flex;
+    width: 64px;
+    height: 64px; 
+}
+.miniblock2 {
+   
+width: 240px;
+height: 270px;
+}
+.miniblock3 {
+    width: 240px;
+    height: 270px;
+}
+.miniblock4 {
+    
+    width: 240px;
+    height: 270px;
+}
+.block3 {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.miniblock2 img {
+    padding-left: 80px;
+    padding-top: 30px;
+
+}
+.miniblock3 img {
+    padding-left: 80px;
+    padding-top: 30px;
+
+}
+.miniblock4 img {
+    padding-left: 80px;
+    padding-top: 30px;
+
+}
+.miniblock1 img {
+    padding-left: 80px;
+    padding-top: 30px;
+
+}
+.hr2 {
+    width: 1200px;
+}
+.loremtext {
+   justify-content: center;
+    display: flex;
+    font-size: x-large;
+}
+.miniblock41 {
+    width: 240px;
+    height: 270px;
+}
+.miniblock42 {
+    width: 240px;
+    height: 270px;
+}
+.miniblock43 {
+    width: 240px;
+    height: 270px;
+}
+.miniblock44 {
+    width: 240px;
+    height: 270px;
+}
+.photo1 {
+    width: 225px;
+    height: 140px;
+}
+.block4 {
+    display: flex;
+    justify-content: space-around;
+}
+.href4 {
+    text-decoration: none;
+    color: gainsboro;
+}
+.footerp1 {
+    color: white;
+}
+.footerp12 {
+    color: pink;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: black;
+}
+.white {
+    color: white;
+}
+.end {
+    background-color: black;
+    color: white ;
+}
+textarea {
+    width: 100px;
+    height: 20px;
+}
+.buttonfooter {
+    background-color: palevioletred;
+    color: rgb(255, 255, 255);
+    width: 100px;
+    height: 50px;
+}
+@media (min-width:750px ) {
+.righth999 {
+    padding-right: 150px;
+}
+
+}
